@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Hello World</title>
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+
+    <!-- Don't use this in production: -->
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+</head>
+<body>
+<div id="root"></div>
+<div id="nextContent"></div>
+<div id="immortal"></div>
+<div id="tick"></div>
+<div id="app"></div>
+<script type="text/babel">
+
+    ReactDOM.render(
+            <h1>Hello, world!</h1>,
+        document.getElementById('root'),
+            //后面的内容不能接着写，否则报错，只能再在后面加上ReactDOM才能接着添加dom元素
+            /*<h2>这还是他妈的react练习</h2>,
+        document.getElementById("nextContent")*/
+    );
+    ReactDOM.render(
+            <h3>这是react练习</h3>,
+        document.getElementById("nextContent")   //注意这里如果取得的是root的id，会覆盖前面的内容
+    );
+
+    function formatPerson(person){
+        return person.firstName + person.lastName;
+    }
+
+    const person = {
+      firstName:"Mr.",
+      lastName:"小明"
+    };
+
+    const element = <h1>{formatPerson(person)}是一个千古神人！</h1>;
+
+    ReactDOM.render(element,document.getElementById("immortal"));
+
+    function tick() {
+        const element = <div>
+                    <h1>hello everyone</h1>
+            <h2>it is {new Date().toLocaleTimeString()}</h2>
+        </div>;
+        ReactDOM.render(element,document.getElementById("tick"));
+    }
+    setInterval(tick,1000);
+
+    //所有的react组件必须像使用纯函数一样使用props
+    function Welcome(props) {
+        return <h1>this is {props.name}</h1>
+    }
+
+    function App() {
+        return (
+                <div>
+                    <Welcome name="小明"/>
+                    <Welcome name="小红"/>
+                    <Welcome name="二狗"/>
+                </div>
+        );
+    }
+
+    ReactDOM.render(<App/>,document.getElementById("app"));
+
+</script>
+<!--
+  Note: this page is a great way to try React but it's not suitable for production.
+  It slowly compiles JSX with Babel in the browser and uses a large development build of React.
+
+  Read this section for a production-ready setup with JSX:
+  https://reactjs.org/docs/add-react-to-a-website.html#add-jsx-to-a-project
+
+  In a larger project, you can use an integrated toolchain that includes JSX instead:
+  https://reactjs.org/docs/create-a-new-react-app.html
+
+  You can also use React without JSX, in which case you can remove Babel:
+  https://reactjs.org/docs/react-without-jsx.html
+-->
+</body>
+</html>

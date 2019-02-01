@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0e81b9c6-904e-4b4e-a7a5-fae0cfa0b959",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "kick_person_card": {
+      "ver": "1.0.3",
+      "uuid": "fc51aaeb-dc8c-4f7e-b772-c3e7b03c9e27",
+      "rawTextureUuid": "0e81b9c6-904e-4b4e-a7a5-fae0cfa0b959",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 76,
+      "height": 96,
+      "rawWidth": 76,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

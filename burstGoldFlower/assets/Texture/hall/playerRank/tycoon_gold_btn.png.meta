@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7717a6de-a712-46f3-8ed2-29a3a1e3b4f4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tycoon_gold_btn": {
+      "ver": "1.0.3",
+      "uuid": "c337e60e-fe2e-49ab-8f98-68feb4c0264b",
+      "rawTextureUuid": "7717a6de-a712-46f3-8ed2-29a3a1e3b4f4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 208,
+      "height": 101,
+      "rawWidth": 208,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

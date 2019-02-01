@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "94e22d11-1583-4ab7-9d2c-dbee8c6fd330",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "wealth7": {
+      "ver": "1.0.3",
+      "uuid": "e3cfd3cd-db1e-477e-9311-c6c0d3b731ef",
+      "rawTextureUuid": "94e22d11-1583-4ab7-9d2c-dbee8c6fd330",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 153,
+      "height": 210,
+      "rawWidth": 153,
+      "rawHeight": 210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

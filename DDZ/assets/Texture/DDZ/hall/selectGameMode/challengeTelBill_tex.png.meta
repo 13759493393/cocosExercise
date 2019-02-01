@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f57ffef5-0e55-4745-a031-071247d204a9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "challengeTelBill_tex": {
+      "ver": "1.0.3",
+      "uuid": "7036a027-47d1-4074-8682-b038fe8cc8bd",
+      "rawTextureUuid": "f57ffef5-0e55-4745-a031-071247d204a9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 190,
+      "height": 51,
+      "rawWidth": 190,
+      "rawHeight": 51,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

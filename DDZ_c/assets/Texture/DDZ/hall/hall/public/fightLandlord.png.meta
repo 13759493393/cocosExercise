@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3cffa49f-58cf-446b-ad2e-480b9c8dadd1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fightLandlord": {
+      "ver": "1.0.3",
+      "uuid": "2669b9d4-a493-48a3-9c97-5f0e11b952b4",
+      "rawTextureUuid": "3cffa49f-58cf-446b-ad2e-480b9c8dadd1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 121,
+      "height": 53,
+      "rawWidth": 121,
+      "rawHeight": 53,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

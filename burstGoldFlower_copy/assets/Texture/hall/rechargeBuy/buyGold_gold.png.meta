@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "87beb019-62c5-4bea-8d50-3e3ff307ce54",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "buyGold_gold": {
+      "ver": "1.0.3",
+      "uuid": "60dc448a-2475-4d06-82a8-f657799afb19",
+      "rawTextureUuid": "87beb019-62c5-4bea-8d50-3e3ff307ce54",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 205,
+      "height": 101,
+      "rawWidth": 205,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

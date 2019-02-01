@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "animation01",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ],
+          "motionPath": [
+            [
+              115,
+              69,
+              48,
+              29,
+              180,
+              108
+            ],
+            [
+              336,
+              201,
+              263,
+              158,
+              426,
+              256
+            ]
+          ],
+          "curve": "cubicInOut"
+        },
+        {
+          "frame": 3,
+          "value": [
+            500,
+            300
+          ],
+          "motionPath": []
+        }
+      ]
+    },
+    "comps": {
+      "cc.Label": {
+        "string": [
+          {
+            "frame": 0,
+            "value": "animation",
+            "curve": "linear"
+          },
+          {
+            "frame": 1,
+            "value": "animat"
+          },
+          {
+            "frame": 2,
+            "value": "anim"
+          },
+          {
+            "frame": 3,
+            "value": "animation"
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "nineFunction",
+      "params": []
+    }
+  ]
+}

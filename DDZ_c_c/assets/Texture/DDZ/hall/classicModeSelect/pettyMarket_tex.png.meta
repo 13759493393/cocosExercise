@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "58e2da58-d7f8-4d1d-8c73-b7a86234f5c0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pettyMarket_tex": {
+      "ver": "1.0.3",
+      "uuid": "e86876f9-970c-4d5c-aab0-02b8bf12a7e7",
+      "rawTextureUuid": "58e2da58-d7f8-4d1d-8c73-b7a86234f5c0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 117,
+      "height": 52,
+      "rawWidth": 117,
+      "rawHeight": 52,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

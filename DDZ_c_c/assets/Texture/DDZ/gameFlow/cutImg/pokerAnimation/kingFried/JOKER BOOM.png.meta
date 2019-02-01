@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "53f06666-0b8d-48b8-ad5d-e05db88c46f0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "JOKER BOOM": {
+      "ver": "1.0.3",
+      "uuid": "2d0d98c6-92ff-4c6a-a4fa-fd6992e4d3a9",
+      "rawTextureUuid": "53f06666-0b8d-48b8-ad5d-e05db88c46f0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1.5,
+      "trimX": 4,
+      "trimY": 5,
+      "width": 1289,
+      "height": 1291,
+      "rawWidth": 1298,
+      "rawHeight": 1298,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

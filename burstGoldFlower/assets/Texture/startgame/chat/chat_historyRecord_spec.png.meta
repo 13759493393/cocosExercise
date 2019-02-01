@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b60486d0-059f-4bb7-9ef3-84e2a504ee7f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "chat_historyRecord_spec": {
+      "ver": "1.0.3",
+      "uuid": "182d2745-df4b-4208-98b9-32a471305345",
+      "rawTextureUuid": "b60486d0-059f-4bb7-9ef3-84e2a504ee7f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 759,
+      "rawWidth": 1280,
+      "rawHeight": 759,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>Light up+.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{125,123}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{125,123}}</string>
+                <key>sourceSize</key>
+                <string>{125,123}</string>
+            </dict>
+            <key>Light up.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{237,2},{106,104}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{106,104}}</string>
+                <key>sourceSize</key>
+                <string>{106,104}</string>
+            </dict>
+            <key>Light upM.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{129,2},{106,104}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{106,104}}</string>
+                <key>sourceSize</key>
+                <string>{106,104}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>light up.png</string>
+            <key>size</key>
+            <string>{345,127}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:65d8a1642c863d99bc6aef17c155eef8$</string>
+            <key>textureFileName</key>
+            <string>light up.png</string>
+        </dict>
+    </dict>
+</plist>

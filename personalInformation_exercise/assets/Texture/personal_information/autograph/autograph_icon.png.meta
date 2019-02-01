@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "46a6d8e9-f79c-4279-ba87-0aa4f9a1fd79",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "autograph_icon": {
+      "ver": "1.0.3",
+      "uuid": "73890fe1-77bb-4c13-bae6-cdafba3c5b77",
+      "rawTextureUuid": "46a6d8e9-f79c-4279-ba87-0aa4f9a1fd79",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 33,
+      "height": 37,
+      "rawWidth": 33,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

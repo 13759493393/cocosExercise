@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3e9b4ee4-0f8a-4e79-9104-ec662909667e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "deposit_icon": {
+      "ver": "1.0.3",
+      "uuid": "a1ab7e54-1833-47f5-b7eb-84b82a50b0f1",
+      "rawTextureUuid": "3e9b4ee4-0f8a-4e79-9104-ec662909667e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 164,
+      "rawWidth": 140,
+      "rawHeight": 164,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

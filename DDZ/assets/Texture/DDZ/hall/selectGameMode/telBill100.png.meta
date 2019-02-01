@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6cb5a764-a5bc-46a9-ab17-40c12411ef81",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "telBill100": {
+      "ver": "1.0.3",
+      "uuid": "fe66cbee-7812-4d0e-8609-bf18d1d38633",
+      "rawTextureUuid": "6cb5a764-a5bc-46a9-ab17-40c12411ef81",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 283,
+      "height": 274,
+      "rawWidth": 283,
+      "rawHeight": 274,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

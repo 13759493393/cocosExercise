@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "632bc0cf-a1b2-4034-8411-91d0116fce15",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "joinRoom_card": {
+      "ver": "1.0.3",
+      "uuid": "6d86da55-ab1e-4713-ba71-9360fb98be26",
+      "rawTextureUuid": "632bc0cf-a1b2-4034-8411-91d0116fce15",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 355,
+      "height": 428,
+      "rawWidth": 355,
+      "rawHeight": 428,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

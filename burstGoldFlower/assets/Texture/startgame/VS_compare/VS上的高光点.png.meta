@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "62845083-34e2-4691-a339-fcf72aa00913",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "VS上的高光点": {
+      "ver": "1.0.3",
+      "uuid": "67ec31b2-5efb-4cac-8a74-8c7a7de2e641",
+      "rawTextureUuid": "62845083-34e2-4691-a339-fcf72aa00913",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 214,
+      "height": 197,
+      "rawWidth": 214,
+      "rawHeight": 197,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
